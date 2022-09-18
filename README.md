@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RICHIE-RT
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning DataScience
+- 🌱 I’m currently learning DataScience, Scrapping, Automation.
 - 💞️ I’m looking to collaborate on ...-
 - 📫 How to reach me ...-
 
