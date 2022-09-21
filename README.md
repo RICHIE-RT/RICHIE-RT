@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RICHIE-RT
+- 👋 Hi, I’m Tushar
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning DataScience, Scrapping, Automation.
 - 💞️ I’m looking to collaborate on ...-
